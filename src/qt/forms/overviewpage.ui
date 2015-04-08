@@ -930,11 +930,11 @@
         <property name="styleSheet">
          <string notr="true">
 QProgressBar {
-     border: 3px solid #111111;
+     border: 2px solid #8dc73f;
      border-radius: 7px;
   	background-color: #242424;
 	text-align: center;
-	color: rgb(96, 96, 96);
+	color: rgb(141, 199, 63);
 	height: 35px;
  }
 
