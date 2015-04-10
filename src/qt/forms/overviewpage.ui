@@ -932,14 +932,14 @@
 QProgressBar {
      border: 2px solid #8dc73f;
      border-radius: 7px;
-  	background-color: #242424;
+  	background-color: #000000;
 	text-align: center;
-	color: rgb(141, 199, 63);
+	color: rgb(255, 255, 255);
 	height: 35px;
  }
 
  QProgressBar::chunk {
-	background: rgba(141, 199, 63, 1);
+	background: rgba(141, 199, 63, 255);
      width: 20px;
  }</string>
         </property>
